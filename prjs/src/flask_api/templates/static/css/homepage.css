@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+}
+
+.background {
+    background-size: cover;
+    background-image: url("../images/home1.jpg");
+    height: 600px;
+}
+
+.content {
+    position: relative;
+    width: 100%;
+    
+}
+
+.title {
+    color: azure;
+    font-size: 30px;
+    padding-left: 500px;
+    padding-top: 30px;
+}
+
+.view1 {
+    color: #f7eded;
+    font-size: 22px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.view2 {
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 80px;
+    padding-top: 15px;
+}
